@@ -1,6 +1,6 @@
 # cleardns
 
-> Flippin&#39; tables, Alfred style.
+> Dependency-free, platform-aware, DNS-clearing library.
 
 ## Install
 

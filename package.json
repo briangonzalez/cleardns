@@ -1,6 +1,6 @@
 {
   "name": "cleardns",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Platform-aware DNS clearing library.",
   "main": "index.js",
   "scripts": {
